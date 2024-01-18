@@ -1,3 +1,4 @@
-Hello! I am Mehenaz Tabassum
-A fontend Developer (Student)
+Hello! I am Mehenaz Tabassum.
+A Web Developer (Student) 
+I'm creating amazing websites
 
